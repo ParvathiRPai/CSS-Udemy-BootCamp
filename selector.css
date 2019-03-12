@@ -1,0 +1,19 @@
+*
+{
+	background-color: pink;
+}
+
+li a {
+	color: red;
+}
+h4+ul
+{
+	color: Blue;
+}
+a[href="http://www.google.com"]
+{
+	background: black; 
+}
+ul: nth-of-type(2){
+ background:purple;
+}
